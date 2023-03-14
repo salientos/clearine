@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="Capa_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 384 384"
+   style="enable-background:new 0 0 384 384;"
+   xml:space="preserve"
+   sodipodi:docname="logout.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs11" /><sodipodi:namedview
+   id="namedview9"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="1.7760417"
+   inkscape:cx="191.71848"
+   inkscape:cy="192"
+   inkscape:window-width="2048"
+   inkscape:window-height="1091"
+   inkscape:window-x="1920"
+   inkscape:window-y="31"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Capa_1" />
+<g
+   id="g6"
+   style="fill:#f9f9f9">
+	<path
+   d="M341.333,0H42.667C19.093,0,0,19.093,0,42.667V128h42.667V42.667h298.667v298.667H42.667V256H0v85.333 C0,364.907,19.093,384,42.667,384h298.667C364.907,384,384,364.907,384,341.333V42.667C384,19.093,364.907,0,341.333,0z"
+   id="path2"
+   style="fill:#f9f9f9" />
+	<polygon
+   points="151.147,268.48 181.333,298.667 288,192 181.333,85.333 151.147,115.52 206.293,170.667 0,170.667 0,213.333 206.293,213.333"
+   id="polygon4"
+   style="fill:#f9f9f9" />
+</g>
+</svg>
